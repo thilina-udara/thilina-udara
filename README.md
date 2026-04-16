@@ -105,7 +105,10 @@ available_for  : DevOps Internships 🌍
 
 <div align="center">
 
-**`🌐 FRONTEND`**
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark&perline=6"/>
+
+**`🌐 FRONTEND MASTERY`**
+
 ![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -113,19 +116,28 @@ available_for  : DevOps Internships 🌍
 ![HTML5](https://img.shields.io/badge/HTML5-0A0A0F?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0A0A0F?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark&perline=6" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3"/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,express,python,kotlin,java&theme=dark&perline=6"/>
+
+**`⚡ BACKEND ENGINEERING`**
+
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=for-the-badge&logo=node.js&logoColor=43853D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0F?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Express.js](https://img.shields.io/badge/Express.js-0A0A0F?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=3776AB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0F?style=for-the-badge&logo=kotlin&logoColor=0095D5)
+![Java](https://img.shields.io/badge/Java-0A0A0F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 <br/>
 
-**`⚡ BACKEND`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express,python,kotlin,java&theme=dark&perline=6" alt="Node.js, Spring Boot, Express.js, Python, Kotlin, Java"/>
-
-<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=6"/>
 
 **`🗄️ DATABASES`**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=6" alt="MongoDB, MySQL, PostgreSQL"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=00758F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=316192)
 
 <br/>
 
@@ -138,17 +150,30 @@ available_for  : DevOps Internships 🌍
 
 <br/>
 
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,kubernetes,git,github&theme=dark&perline=6"/>
 
 **`☁️ CLOUD & DEVOPS`**
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp,kubernetes,git,github&theme=dark&perline=6" alt="Docker, Linux, Google Cloud, Kubernetes, Git, GitHub Actions"/>
+
+![Docker](https://img.shields.io/badge/Docker-0A0A0F?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-0A0A0F?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0A0A0F?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0F?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0F?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 
 <br/>
 
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark&perline=4"/>
 
-**`🛠️ TOOLS`**
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark&perline=4" alt="VS Code, IntelliJ IDEA, Postman, Figma"/>
+**`🛠️ DEVELOPMENT TOOLS`**
+
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0F?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0A0A0F?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0A0A0F?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-0A0A0F?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
+
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
