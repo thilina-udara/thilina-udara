@@ -111,17 +111,20 @@ available_for  : DevOps Internships 🌍
 
 <br/>
 
+
 **`⚡ BACKEND`**
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring,express,python,kotlin,java&theme=dark&perline=6" alt="Node.js, Spring Boot, Express.js, Python, Kotlin, Java"/>
 
 <br/>
 
+
 **`🗄️ DATABASES`**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=6" alt="MongoDB, MySQL, PostgreSQL"/>
 
 <br/>
+
 
 **`🤖 AI & MACHINE LEARNING`**
 
@@ -132,11 +135,13 @@ available_for  : DevOps Internships 🌍
 
 <br/>
 
+
 **`☁️ CLOUD & DEVOPS`**
 
 <img src="https://skillicons.dev/icons?i=docker,linux,gcp,kubernetes,git,github&theme=dark&perline=6" alt="Docker, Linux, Google Cloud, Kubernetes, Git, GitHub Actions"/>
 
 <br/>
+
 
 **`🛠️ TOOLS`**
 
@@ -203,7 +208,8 @@ available_for  : DevOps Internships 🌍
 <h2 align="center">🏆 &nbsp; GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thilina-udara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=thilina-udara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" width="95%" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=thilina-udara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/> -->
 </div> 
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
