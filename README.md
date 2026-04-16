@@ -206,7 +206,8 @@ available_for  : DevOps Internships 🌍
 <h2 align="center">🏆 &nbsp; GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaUdara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/>
+   <img src="https://github.com/thilina-udara?tab=achievements" alt="Thilina Udara GitHub Profile Trophies" width="95%"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ThilinaUdara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/> -->
 </div> 
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
