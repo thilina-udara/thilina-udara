@@ -17,7 +17,7 @@ jobs:
       - name: Generate Pacman SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.Thilina-Udara }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/Pacman.svg?palette=github-dark&foodColor=%2358A6FF&color=%23FF6B35
 
