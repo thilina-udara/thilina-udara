@@ -204,7 +204,7 @@ available_for  : DevOps Internships 🌍
 
 <div>
   
-  <img src="https://github-profile-achievements_two.vercel.app/api?username=thilina-udara&theme=darkhub" width="380px" />
+  <img src="https://github.com/users/thilina-udara/achievements/pull-shark" width="380px" />
 </div>
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
