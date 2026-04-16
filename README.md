@@ -106,6 +106,12 @@ available_for  : DevOps Internships 🌍
 <div align="center">
 
 **`🌐 FRONTEND`**
+![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0A0F?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0F?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0F?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark&perline=6" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3"/>
 
