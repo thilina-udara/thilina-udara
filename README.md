@@ -217,7 +217,7 @@ available_for  : DevOps Internships 🌍
 
 <!-- ══════════════════ PACMAN ══════════════════ -->
 
-<h2 align="center">🟡 &nbsp; Pacman Eats My Contributions</h2>
+<h2 align="center">🐍 &nbsp;My Contributions</h2>
 
 <div align="center">
   <picture>
