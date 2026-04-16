@@ -52,10 +52,6 @@ AI Integration, Spring Boot, React Developer, Open to Internship
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🕒 Live Clock
-
-<img src="https://github-readme-time.vercel.app/api/time?timezone=Asia/Colombo" />
-
 <!-- ══════════════════ ABOUT ME ══════════════════ -->
 
 <table width="100%">
