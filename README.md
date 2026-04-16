@@ -152,25 +152,22 @@ available_for  : DevOps Internships 🌍
 <h2 align="center">📊 &nbsp; GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThilinaUdara&show_icons=true&count_private=true&border_radius=12&bg_color=0A0A0F&title_color=B040FF&icon_color=FFD700&text_color=E8D5FF&border_color=7B2FBE" alt="Thilina Udara GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thilina-udara&show_icons=true&count_private=true&border_radius=12&bg_color=0A0A0F&title_color=B040FF&icon_color=FFD700&text_color=E8D5FF&border_color=7B2FBE" alt="Thilina Udara GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilinaUdara&layout=compact&langs_count=8&border_radius=12&bg_color=0A0A0F&title_color=B040FF&text_color=E8D5FF&border_color=7B2FBE" alt="Thilina Udara Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilina-udara&layout=compact&langs_count=8&border_radius=12&bg_color=0A0A0F&title_color=B040FF&text_color=E8D5FF&border_color=7B2FBE" alt="Thilina Udara Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThilinaUdara&theme=transparent&hide_border=false&border_radius=12&background=0A0A0F&stroke=7B2FBE&ring=B040FF&fire=FFD700&currStreakLabel=B040FF&sideLabels=E8D5FF&dates=8B7FBE&currStreakNum=FFD700&sideNums=E8D5FF" alt="Thilina Udara GitHub Streak Stats" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=thilina-udara&theme=transparent&hide_border=false&border_radius=12&background=0A0A0F&stroke=7B2FBE&ring=B040FF&fire=FFD700&currStreakLabel=B040FF&sideLabels=E8D5FF&dates=8B7FBE&currStreakNum=FFD700&sideNums=E8D5FF" alt="Thilina Udara GitHub Streak Stats" width="60%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThilinaUdara&bg_color=0A0A0F&color=B040FF&line=7B2FBE&point=FFD700&area=true&area_color=1A0A3E&hide_border=false&border_color=7B2FBE&radius=12" alt="Thilina Udara GitHub Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilina-udara&bg_color=0A0A0F&color=B040FF&line=7B2FBE&point=FFD700&area=true&area_color=1A0A3E&hide_border=false&border_color=7B2FBE&radius=12" alt="Thilina Udara GitHub Activity Graph" width="95%"/>
 </div>
-
-<!-- ══════════════════ DIVIDER ══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
