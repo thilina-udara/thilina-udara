@@ -21,7 +21,7 @@
 <div align="center">
 
 <a href="https://github.com/ThilinaUdara">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hey+There%2C+I'm+Thilina+Udara+%F0%9F%91%8B;IT+Student+%40+SLIIT+%F0%9F%8E%93;Aspiring+DevOps+Engineer+%E2%99%BE%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hey+There%2C+I'm+Thilina+Udara+%F0%9F%91%8B;Aspiring+DevOps+Engineer+%E2%99%BE%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -218,58 +218,6 @@ work_style     : Agile · Team Lead · Continuous Learner
 <!-- ══════════════════ SECTION DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════ FEATURED PROJECTS ══════════════════ -->
-
-<h2 align="center">🚀 &nbsp; Featured Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/ThilinaUdara/UniPlan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThilinaUdara&repo=UniPlan&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=CDD9E5&border_color=30363D&border_radius=12"/>
-</a>
-&nbsp;
-<a href="https://github.com/ThilinaUdara/Taskify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThilinaUdara&repo=Taskify&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=CDD9E5&border_color=30363D&border_radius=12"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center" width="96%">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>🧠 UniPlan</h3>
-      <p>AI-powered student productivity & schedule management system. Smart planning meets academic workflow automation.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI_Powered-412991?style=flat-square&logo=openai&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>🏙️ Smart Campus Hub</h3>
-      <p>Campus Operation Hub with strict Git branch protection workflows & CI/CD pipelines for collaborative development.</p>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot"/>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>✅ Taskify</h3>
-      <p>Full-stack, containerized task management app. Built with JavaScript & Docker — production-ready from day one.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>💰 Coinomy</h3>
-      <p>Personal finance tracker app developed in Kotlin. Beautiful native Android experience for smarter money habits.</p>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    </td>
-  </tr>
-</table>
 
 <!-- ══════════════════ SECTION DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
