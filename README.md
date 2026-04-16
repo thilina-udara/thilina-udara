@@ -172,55 +172,6 @@ available_for  : DevOps Internships 🌍
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
-
-<h2 align="center">🚀 &nbsp; Projects</h2>
-
-<table align="center" width="96%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 UniPlan</h3>
-      <p>AI-powered student productivity & schedule management system. Smart planning meets academic workflow automation.</p>
-      <a href="https://github.com/ThilinaUdara/UniPlan">
-        <img src="https://img.shields.io/badge/View_Repo-7B2FBE?style=flat-square&logo=github&logoColor=white" alt="UniPlan GitHub Repository"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-1A0A3E?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-1A0A3E?style=flat-square&logo=node.js&logoColor=43853D" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/AI_Powered-1A0A3E?style=flat-square&logo=openai&logoColor=B040FF" alt="AI Powered"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏙️ Smart Campus Hub</h3>
-      <p>Campus Operation Hub with strict Git branch protection workflows & CI/CD pipelines for collaborative development.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-1A0A3E?style=flat-square&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Docker-1A0A3E?style=flat-square&logo=docker&logoColor=2CA5E0" alt="Docker"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-1A0A3E?style=flat-square&logo=github-actions&logoColor=2088FF" alt="GitHub Actions CI/CD"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✅ Taskify</h3>
-      <p>Full-stack, containerized task management app. Built with JavaScript & Docker — production-ready from day one.</p>
-      <a href="https://github.com/ThilinaUdara/Taskify">
-        <img src="https://img.shields.io/badge/View_Repo-7B2FBE?style=flat-square&logo=github&logoColor=white" alt="Taskify GitHub Repository"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A0A3E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/MongoDB-1A0A3E?style=flat-square&logo=mongodb&logoColor=4EA94B" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Docker-1A0A3E?style=flat-square&logo=docker&logoColor=2CA5E0" alt="Docker"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 Coinomy</h3>
-      <p>Personal finance tracker app developed in Kotlin. Beautiful native Android experience for smarter money habits.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Kotlin-1A0A3E?style=flat-square&logo=kotlin&logoColor=0095D5" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Android-1A0A3E?style=flat-square&logo=android&logoColor=3DDC84" alt="Android"/>
-      <img src="https://img.shields.io/badge/Firebase-1A0A3E?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
-    </td>
-  </tr>
-</table>
-
 <!-- ══════════════════ DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
