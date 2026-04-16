@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://github.com/ThilinaUdara">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey+There%2C+I'm+Thilina+Udara+%F0%9F%91%8B;IT+Student+%40+SLIIT+%F0%9F%8E%93;Aspiring+DevOps+Engineer+%E2%99%BE%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey+There%2C+I'm+Thilina+Udara+%F0%9F%91%8B;Aspiring+DevOps+Engineer+%E2%99%BE%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -276,13 +276,4 @@ work_style      : Agile · Team Lead · Continuous Learner
 
 </div>
 
-<!-- 
-════════════════════════════════════════════════
-📁 ASSETS SETUP — Place these files in /assets/:
-  - pixel-coding.gif  (the pixel art gaming room gif)
-  - lofi-coding.gif   (the lofi anime coding gif)
-  - Pacman.svg        (the pacman contribution graph)
-════════════════════════════════════════════════
-⚙️  REPLACE ThilinaUdara with your actual GitHub username
-════════════════════════════════════════════════
--->
+
