@@ -193,8 +193,8 @@ available_for  : DevOps Internships 🌍
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThilinaUdara/ThilinaUdara/output/Pacman.svg"/>
-    <img alt="Thilina Udara GitHub Contribution Graph - Pacman" src="https://raw.githubusercontent.com/ThilinaUdara/ThilinaUdara/output/Pacman.svg" width="95%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ThilinaUdara/ThilinaUdara/raw/output/Pacman.svg"/>
+    <img alt="Thilina Udara GitHub Contribution Graph - Pacman" src="https://github.com/ThilinaUdara/ThilinaUdara/raw/output/Pacman.svg" width="95%"/>
   </picture>
 </div>
 
@@ -206,7 +206,7 @@ available_for  : DevOps Internships 🌍
 <h2 align="center">🏆 &nbsp; GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThilinaUdara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=ThilinaUdara&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7" alt="Thilina Udara GitHub Profile Trophies" width="95%"/>
 </div>
 
 <!-- ══════════════════ DIVIDER ══════════════════ -->
