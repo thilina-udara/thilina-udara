@@ -22,14 +22,14 @@ AI Integration, Spring Boot, React Developer, Open to Internship
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <div align="center">
 
-<a href="https://github.com/ThilinaUdara">
+<a href="https://github.com/thilina-udara">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=B040FF&center=true&vCenter=true&width=750&height=70&lines=Hey+There%2C+I'm+Thilina+Udara+%F0%9F%91%8B;Aspiring+DevOps+Engineer+%E2%99%BE%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A5" alt="Thilina Udara - DevOps Engineer, Full Stack Developer, SLIIT Sri Lanka"/>
 </a>
 
 <br/><br/>
 
 <!-- Badge Row -->
-<a href="https://github.com/ThilinaUdara">
+<a href="https://github.com/thilina-udara">
   <img src="https://komarev.com/ghpvc/?username=ThilinaUdara&label=Profile+Views&color=7B2FBE&style=for-the-badge" alt="Profile Views"/>
 </a>
 &nbsp;
