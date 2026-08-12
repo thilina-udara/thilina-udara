@@ -275,7 +275,7 @@ available_for  : DevOps Internships 🌍
 📁 assets/ folder needs:
    pixel-coding.gif · lofi-coding.gif · Coddy.gif
 🎨 Theme: Solo Leveling (Deep Purple + Gold)
-⚙️  Username: ThilinaUdara
+⚙️  Username: thilina-udara
 🟡  Pacman: GitHub Actions → output branch
 
 🔍 SEO KEYWORDS EMBEDDED:
