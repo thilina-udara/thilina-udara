@@ -256,7 +256,7 @@ available_for  : DevOps Internships 🌍
   <img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - thilinaudarad@gmail.com"/>
 </a>
 &nbsp;
-<a href="https://github.com/ThilinaUdara" title="Follow Thilina Udara on GitHub">
+<a href="https://github.com/thilina-udara" title="Follow Thilina Udara on GitHub">
   <img src="https://img.shields.io/badge/GitHub-Follow-7B2FBE?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub - ThilinaUdara"/>
 </a>
 
